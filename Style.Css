@@ -1,0 +1,254 @@
+.sec1{
+
+background-image: url(./images/image\ 1.jpg) ;
+background-size: 100% 100%;
+overflow: auto;
+height: 100vh;
+
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.a{
+
+    text-align: center;
+    margin: 250px auto;
+    color: white;
+}
+.b{
+
+text-align: center;
+padding: 15px 10px;
+/* background-color: white; */
+
+}
+.brown{
+    background-color:#8e7754 ;
+    border:  none;
+    margin-right: 15px;
+
+}
+.white{
+    background-color: transparent;
+}
+
+.sec2{
+        text-align: center;
+        
+   
+    width: 90%;
+margin-top: 50px;
+}
+
+.i2 {
+
+margin: 30px 20px;
+ width: 40%; 
+ height: auto;
+ text-align: left;
+ float: left;
+ padding-right: 40px;
+ 
+
+
+}
+.i2 img{
+    width: 100%;
+}
+
+
+
+.sec2-caption{
+
+text-align: left;
+float: right;
+width: 40%;
+margin: 20px 10px;
+
+font-size: 20px;
+color: #8e7754;
+}
+.sec2-caption h1{
+    color: black;
+}
+.ul{
+    padding: 20px;
+}
+.clr{
+
+
+clear: both;
+
+
+
+}
+.sec3{
+
+    text-align: center;
+ 
+    
+
+
+width: 90%;
+margin: auto;
+
+}
+.i3{
+
+    float: right;
+    width: 40%;
+    text-align: left;
+    margin: 20px 10px;
+padding-right: 20px;
+height: auto;
+
+
+}
+.i3 img{
+    width: 100%;
+
+}
+.w{
+float: left;
+text-align: left;
+
+width: 50%;
+font: 18px;
+margin: 30px 20px;
+}
+.clr{
+
+    clear: both;
+}
+.s1 {
+    color: #8e7754;
+}
+.s2{
+    color:#8e7754 ;
+}
+/* sec4 */
+.sec4{
+
+width: 90%;
+margin: auto;
+
+text-align: center;
+
+}
+.Add{
+    color: black;
+}
+.pra{
+    color: #8e7754;
+}
+.sec4-cap{
+    text-align: center;
+   
+}
+.co{
+    color: #303030;
+    text-align: center;
+}
+.cl{
+    color: #8e7754;
+    text-align: center;
+}
+/* .ci{
+
+    width: 33.3%;
+    float: right;
+    height: auto;
+} */
+.clr{
+    clear: both;
+}
+.T1{
+text-align: center;
+width: 33.3%;
+float: right;
+height: auto;
+box-sizing: border-box;
+padding: 5px;
+}
+.sec4 img{
+    width: 100%;
+}
+
+
+.leftbar{
+
+   
+    width: 20%;
+    float: left;
+}
+.leftbar img{
+    width: 150px;
+    margin-left: 10px;
+}
+.navbar{
+
+  
+    padding: 10px 50px;
+    width: 80%;
+    margin: auto;
+}
+.rightbar li{
+
+    float: left;
+    margin: 10px ;
+    
+
+    
+    
+
+}
+
+.rightbar ul{
+    list-style: none;
+   padding-top: 10px;
+
+}
+.rightbar a{
+
+
+    text-decoration: none;
+    color: white;
+}
+.rightbar{
+
+    width: 50%;
+    float: right;
+}
+.main{
+    background-color: gray;
+}
+
+
+
+
+
+
+/* scc5 */
+.sec5{
+
+
+
+
+width: 90%;
+
+
+
+margin:auto ;
+
+
+
+
+}
+.map{
+
+width: 40%;
+float: right ;
+
+margin-top: 50px;
+
+}
